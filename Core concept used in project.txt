@@ -1,0 +1,31 @@
+Core concepts used in the projects are as follows:
+
+1. Spring boot
+
+2. Spring date JPA
+
+3. MySQL database to store user data
+
+4. List data structure
+
+5. class
+
+6. methods
+
+7. spring web
+
+8. Maven
+
+9. Builder design pattern
+
+10. Lombok
+
+11. CRUD operation
+
+12. Postman
+
+
+
+
+
+
